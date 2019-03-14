@@ -1,0 +1,2 @@
+# gitSamplerepo
+git ready!
